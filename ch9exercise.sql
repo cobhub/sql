@@ -32,6 +32,8 @@ select county,
 period_name,
 round(avg(value)
 over(partition by county
-order by county, period
+order by county, year, period
 rows between 11 preceding and current row), 2) as rolling_rate
-from unemployment;
+from unemployment
+order by county, year, period;
+
