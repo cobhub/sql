@@ -1,0 +1,21 @@
+calendar_year,(All),
+country_size,(All),
+,,
+Row Labels,Sum of pop_in_millions,Sum of nobel_prize_winners
+    CAN - Canada,35.832513,1
+   DEN - Denmark,5.547683,1
+  AUS - Australia,42.734824,3
+  BEL - Belgium,11.182817,1
+  NED - Netherlands,17.030314,1
+  NOR - Norway,5.137232,2
+CHN - China,2702.48,2
+fra - france,521.747651,11
+G.BR - Great Britain,622.073374,16
+ger - Germany,327.828391,7
+ISR - Israel,28.9905,5
+JPN - Japan,1146.610511,15
+RUS - Russia,291.244814,2
+SUI - Switzerland,7.284753,1
+swe - sweden,8.872109,1
+U.S.A. - United States,5157.94178,116
+Grand Total,10932.53927,185
